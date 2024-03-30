@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there, I'm Brian Peter Kazibwe 👋
 
 I'm a software developer specializing in building mobile applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
