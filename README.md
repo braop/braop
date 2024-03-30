@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Peter Kazibwe 👋
 
-I'm a software developer specializing in building mobile applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
+ ✨I'm a software developer specializing in building mobile applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
 
 ## Languages and Tools:
 
@@ -18,7 +18,7 @@ I'm a software developer specializing in building mobile applications. I'm passi
 - 🔭 I’m currently working on Android and Flutter projects.
 - 🌱 I’m always learning more about mobile development and design patterns.
 - 💬 Ask me about anything related to Kotlin, Java, or Dart programming.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInProfileURL)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braop/)
 
 ---
 
