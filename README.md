@@ -1,4 +1,6 @@
-# Hi there, I'm Brian Peter Kazibwe 👋
+# Hi there, I'm Brian Peter Kazibwe 👋 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=braop.braop)
 
  ✨I'm a software developer specializing in building mobile applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
 
