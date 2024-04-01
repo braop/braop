@@ -22,13 +22,12 @@
 
 ---
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=braop&show_icons=true&theme=radical)
 
 <!---
 This section is a comment. You can add any other information you like here, such as recent projects, or a portfolio.
---->
-
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=braop&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braop&hide_progress=true)
+--->
 
 <!--
 **braop/braop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
