@@ -7,6 +7,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=c#&logoColor=white)
+![Python](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ## Platforms:
 
