@@ -9,6 +9,8 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/c_sharp-%23ED8B00.svg?&style=for-the-badge&logo=c#&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=c++&logoColor=white)
 
 ## Platforms:
 
