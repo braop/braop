@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Peter Kazibwe 👋 
 
- ✨I'm a software developer specializing in building mobile applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
+ ✨I'm a software developer specializing in building Android mobile applications. I'm passionate about creating seamless user experiences, writing clean and efficient code.
 
 ## Languages and Tools:
 
